@@ -1,2 +1,2 @@
 No se si agregar otra carpeta especifica para automatizacion.
-https//github.com/javierfuentesm/Frimework-webdriver-video.git
+https//github.com/javierfuentesm/Frimework-webdriver-video.git q
